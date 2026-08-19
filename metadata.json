@@ -1,0 +1,6 @@
+{
+  "name": "Campus Lost & Found",
+  "description": "Smart campus lost and found system with automated image, location, and description matching to reconnect students with their belongings.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
